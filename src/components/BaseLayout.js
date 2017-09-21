@@ -11,7 +11,7 @@ class  BaseLayout extends Component {
     return(
       <div className='App'>
       <div className='body'>
-      <h1>
+      <h1 className='sza_h1'>
       <center>
        S  Z  A
        </center>
@@ -105,7 +105,7 @@ class  BaseLayout extends Component {
 
       <NavLink className='text_nav' to='/Portfolio'> P0RTF0LI0 </NavLink>
       </nav>
-      
+
       </div>
       {this.props.children}
       </div>

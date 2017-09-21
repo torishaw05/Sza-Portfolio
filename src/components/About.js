@@ -43,8 +43,7 @@ import {Link} from 'react-router-dom';
       Her father was a CNN producer while her mother worked for AT&T.
        She has a half-sister.
        </p>
-
-       <img className='sza_6' src={require('../images/sza.jpg')}/>
+       <img  className='sza_6' src={require('../images/sza.jpg')}/>
 
        <p className='info'>
        BIRTHDAY       <br></br>

@@ -122,3 +122,156 @@ color: rgb(232, 152, 152);
 background-color: white;
 
 }
+.Portfolio{
+  border: 5px solid white;
+  background-color: white;
+  width: 700px;
+  color: rgb(38, 48, 43);
+  border-radius: 25px;
+}
+
+.sza_1{
+  border: 8px solid white;
+  border-radius: 60px;
+  width: 55%;
+  height: 500px;
+}
+
+.Portfolio img {
+  border: 6px solid white;
+  border-radius:15px;
+  /*height: 200px;*/
+  margin: 25px;
+}
+.sza_a{
+      width: 90%;
+    }
+.description_port {
+  font-family: 'Encode Sans Condensed', sans-serif;
+  font-size: 30px;
+  border: 4px solid white;
+  background-color: rgb(38, 48, 43);
+  color: white;
+  border-radius: 25px;
+  width: 600px;
+
+}
+
+.butterfly {
+  position:relative;
+	margin-top:8%;
+	width:400px;
+	transform:rotate(-20deg);
+}
+.butterfly > div {position:absolute;}
+.butterfly img {width:100%;}
+
+.leftwing {
+  animation:flap-l 4s cubic-bezier(.08,1.47,.65,-0.68) infinite;
+}
+.rightwing {
+  animation:flap-r 4s cubic-bezier(.08,1.47,.65,-0.68) infinite;
+}
+.leftwing, .rightwing {z-index:1;}
+
+@keyframes flap-l {
+			0% {transform:rotateY(0);}
+			50% {transform:rotateY(80deg);}
+			100% {transform:rotateY(0);}
+}
+@keyframes flap-r {
+			0% {transform:rotateY(0); }
+			50% {transform:rotateY(-80deg);}
+			100% {transform:rotateY(0);}
+}
+.sza_b {
+  width: 90%;
+}
+.sza_name {
+  font-family: 'Encode Sans Condensed', sans-serif;
+  font-size: 30px;
+  border: 4px solid white;
+  background-color: rgb(232, 152, 152);
+  color: white;
+  border-radius: 25px;
+  width: 600px;
+
+
+}
+.f_symbol {
+  height: 55px;
+}
+.e_symbol {
+  height: 55px;
+}
+.i_symbol {
+  height: 55px;
+}
+.quote {
+  font-family: 'Encode Sans Condensed', sans-serif;
+  font-size: 30px;
+  border: 4px solid white;
+  background-color: rgb(38, 48, 43);
+  color: white;
+  border-radius: 25px;
+  width: 600px;
+font-weight: bold;
+}
+.before {
+  font-family: 'Encode Sans Condensed', sans-serif;
+  font-size: 30px;
+  border: 4px solid white;
+  background-color: rgb(232, 152, 152);
+  color: white;
+  border-radius: 25px;
+  width: 600px;
+font-weight: bold;
+
+
+}
+.bread {
+  font-family: 'Encode Sans Condensed', sans-serif;
+  font-size: 30px;
+  border: 4px solid white;
+  background-color: rgb(38, 48, 43);
+  color: white;
+  border-radius: 25px;
+  width: 600px;
+font-weight: bold;
+
+
+}
+.sza_d{
+  width: 600px;
+}
+.sza_f {
+  width: 600px;
+
+}
+.sza_g {
+  width: 600px;
+}
+.sza_h {
+  width: 600px;
+}
+.albums_ {
+  font-size: 60px;
+  font-weight: bold;
+  padding-bottom: 0%;
+  margin: 0%;
+}
+.sza_h1 {
+  text-shadow:  10px 10px rgb(167, 105, 0);
+}
+.sza_more {
+  font-family: 'Encode Sans Condensed', sans-serif;
+  font-size: 30px;
+  border: 4px solid white;
+  background-color: rgb(232, 152, 152);
+  color: white;
+  border-radius: 25px;
+  width: 600px;
+font-weight: bold;
+
+
+}
