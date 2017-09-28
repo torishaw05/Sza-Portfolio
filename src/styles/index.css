@@ -207,6 +207,16 @@ background-color: white;
 .i_symbol {
   height: 55px;
 }
+.f_symbol:hover {
+  height: 65px;
+}
+.e_symbol:hover{
+  height: 65px;
+}
+.i_symbol:hover {
+  height: 65px;
+}
+
 .quote {
   font-family: 'Encode Sans Condensed', sans-serif;
   font-size: 30px;
@@ -254,6 +264,7 @@ font-weight: bold;
 .sza_h {
   width: 600px;
 }
+
 .albums_ {
   font-size: 60px;
   font-weight: bold;
@@ -268,10 +279,123 @@ font-weight: bold;
   font-size: 30px;
   border: 4px solid white;
   background-color: rgb(232, 152, 152);
+  background-color: white;
   color: white;
   border-radius: 25px;
   width: 600px;
 font-weight: bold;
 
 
+}
+.contact_me {
+  border: 3px solid white;
+  border-radius: 15px;
+  width: 550px;
+  color: rgb(38, 48, 43);
+  background-color: white;
+  font-weight: bold;
+}
+.symbols {
+  border: 4px solid white;
+  background-color: white;
+  border-radius: 15px;
+  width: 400px;
+  height: 200px;
+
+}
+.check_me {
+  font-size: 25px;
+  color: rgb(38, 48, 43);
+
+}
+form {
+  border: 5px solid white;
+  background-color: white;
+  color: rgb(38, 48, 43);
+  font-family: 'Encode Sans Condensed', sans-serif;
+font-size: 16px;
+margin-bottom: 60px;
+width: 500px;
+border-radius: 15px;
+
+}
+input {
+  margin-bottom: 30px;
+  width: 100px;
+  height: 30px;
+  color: rgb(38, 48, 43);
+  font-family: 'Encode Sans Condensed', sans-serif;
+font-size: 15px;
+
+}
+
+.birthdate{
+  font-size: 9px;
+}
+textarea {
+  margin-bottom: 30px;
+  color: rgb(38, 48, 43);
+  font-family: 'Encode Sans Condensed', sans-serif;
+font-size: 15px;
+
+}
+.submit_button {
+  width: 100px;
+  height: 3%;
+  font-family: 'Encode Sans Condensed', sans-serif;
+  background-color: rgb(232, 152, 152);
+  border-radius: 10px;
+  color: white;
+  font-size: 20px;
+  border: 2px solid white;
+}
+.submit_button:hover {
+  background-color: rgb(38, 48, 43);
+
+}
+.contact1 {
+  border: 4px solid white;
+  background-color: white;
+  color: rgb(38, 48, 43);
+  font-size: 15px;
+  width: 400px;
+  border-radius: 15px;
+  margin: 40px;
+  font-family: 'Encode Sans Condensed', sans-serif;
+
+}
+.contact2 {
+  border: 4px solid white;
+  background-color: white;
+  color: rgb(232, 152, 152);
+  font-size: 15px;
+  width: 400px;
+  border-radius: 15px;
+  margin: 40px;
+  font-family: 'Encode Sans Condensed', sans-serif;
+
+}
+.contact3 {
+  border: 4px solid white;
+  background-color: white;
+  color: rgb(38, 48, 43);
+  font-size: 15px;
+  width: 400px;
+  border-radius: 15px;
+  margin: 40px;
+  font-family: 'Encode Sans Condensed', sans-serif;
+
+}
+.phone:hover {
+  border: 2px solid white;
+  background-color: white;
+color: blue;
+
+}
+.ref {
+  border: 4px solid white;
+  background-color: white;
+  width: 800px;
+  color: rgb(38, 48, 43);
+  border-radius: 15px;
 }

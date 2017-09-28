@@ -17,3 +17,6 @@ class  Home extends Component {
 
 
 export default Home;
+
+
+  // <h4 className='our_pink'> Ⓞur Ƿink iⓢ the Ⓝew βla©k!  </h4>

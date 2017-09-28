@@ -19,42 +19,7 @@ class  BaseLayout extends Component {
       <nav>
       &nbsp;
       &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
+  
       &nbsp;
       &nbsp;
       &nbsp;
@@ -73,12 +38,7 @@ class  BaseLayout extends Component {
       &nbsp;
       &nbsp;
       &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
-      &nbsp;
+
       &nbsp;
       &nbsp;
       &nbsp;
@@ -101,6 +61,30 @@ class  BaseLayout extends Component {
       &nbsp;
       &nbsp;
       &nbsp;
+      <NavLink className='text_nav' to='/References'> REFERENCES </NavLink>
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+
+      &nbsp;
+      <NavLink className='text_nav' to='/Contacts'> C0NTACTS </NavLink>
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+      &nbsp;
+
+
 
 
       <NavLink className='text_nav' to='/Portfolio'> P0RTF0LI0 </NavLink>
